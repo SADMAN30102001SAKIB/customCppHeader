@@ -1,3 +1,5 @@
+//the TKV language XD
+
 #include "sadman.h"
 moneiHobe namePoddhoti std thamo
 
